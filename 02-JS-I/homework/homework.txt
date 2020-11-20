@@ -1,0 +1,15 @@
+Variable: Es un espacio en la memoria del computador para guardar un unico dato. 
+A este espacio de memoria se le asigna un nombre para poder usar despues el dato guardado.
+
+Strings: Son texto. 
+
+Funciones(argumentos, return): Es una porcion de codigo que realiza procedimientos a unas variables
+de entrada denominadas argumentos para entregar un resultado denominado retorno. Esta porcion de 
+codigo tiene un nombre para poder ser utilizado sin repetir el codigo completo.
+
+Declaraciones if: Un programa puede tener diferentes caminos con diferentes resultados pero empezar en el mismo 
+punto, para elegir el camino a seguir se realizan las declaraciones if que evaluan las condiciones necesarias 
+para cada camino.
+
+Valores booleanos(true, false): Es un dato que solo puede tener dos valores, encendido o apagado, uno o cero, 
+existe o no existe. Estos valores se representan con true o false.
