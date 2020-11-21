@@ -1,0 +1,12 @@
+for: Es una de las expresiones para repetir un procedimiento. Esta expresion requiere de un contador que 
+contara cada repeticion. A este contador se le define un valor inicial y un valor final. Cada vez que realiza
+una repeticion el contador aumentara y se realiza una comparacion con el valor final. Si son iguales dejara de 
+repetir.
+
+&&: Evalua que dos condiciones sean verdaderas al mismo tiempo para ser verdadero. Si almenos una es falsa entonces
+el resultado sera falso.
+
+||: Evalua que al menos una de dos condiciones sea verdadera para ser verdadero. Solo si ambas son falsas al tiempo
+entonces el resultado es falso.
+
+!: Es el operador de negacion. Devolvera siempre lo opuesto del valor que se le pasa.
