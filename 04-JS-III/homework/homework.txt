@@ -1,0 +1,1 @@
+array: En espa~nol arreglos, es una coleccion de dato. Una variable que guarda mas de un dato a la vez. 
