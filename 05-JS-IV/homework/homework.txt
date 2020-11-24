@@ -1,0 +1,14 @@
+Objetos: Son variables que pueden contener informacion de diferente tipo relacionadas o que 
+describen a una sola cosa.
+
+Propiedades: Cualquiera de las variables que contiene el objeto. 
+
+Metodos: Funciones dentro de los objetos
+
+Bucle for...in: Cumple la misma funcion del bucle for, se diferencia en que recorre el arreglo elemento por 
+elemento hasta que no encuentra mas elementos, por lo que no se requiere conocer el numero de elementos existentes
+en el arreglo
+
+Notacion puntos vs notacion corchetes: Para acceder al valor de las propiedades del objeto se puede hacer de
+dos maneras diferentes. La notacion puntos es objeto.propiedad y es equivalente a notacion corchetes de
+objeto['propiedad']
