@@ -1,0 +1,6 @@
+prototype: Cuando se crea una clase con metodos, estos se repiten en cada objeto creado, consumiendo memoria.
+Para optimizar esto, podemos crear los metodos fuera de la funcion de clase, dejando solo lo esencial en ella.
+Estos metodos haran referencia a la clase y podran ser usados en cada objeto de la clase.
+
+Constructors: Es el metodo o funcion de un clase que permite la creacion de un nuevo objeto de esa clase sin 
+repetir el codigo.
