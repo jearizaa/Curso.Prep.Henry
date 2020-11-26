@@ -1,0 +1,3 @@
+Callback: Las funciones reciben normalmente datos con los cuales van a trabajar. Un callback es una 
+funcion que recibe otra funcion, asi, esta funcion podra usar los argumentos y funciones externas 
+de ser necesario, aumentando asi la complejidad.
