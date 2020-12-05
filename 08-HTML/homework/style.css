@@ -1,0 +1,24 @@
+h1{
+    color:red;
+}
+img{width: 400px;}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:orange;
+    padding: 50px;
+    border: 10px;
+    border-style: dashed;
+    border-color: brown;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image: url('https://media1.tenor.com/images/cdfa349839bdbbcbcf29c86cc4df7da5/tenor.gif?itemid=16725392');
+    text-align: center;
+}
+div{
+    margin: auto;
+}
